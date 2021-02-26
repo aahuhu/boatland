@@ -1,0 +1,2 @@
+usv_gazebo_plugins:usv_msgs:vrx_gazebo:wamv_description:wamv_gazebo:wave_gazebo:wave_gazebo_plugins
+-DCATKIN_DEVEL_PREFIX=/home/hedy/autoland/devel -DCMAKE_INSTALL_PREFIX=/home/hedy/autoland/install -G Unix Makefiles
